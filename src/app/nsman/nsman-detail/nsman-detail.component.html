@@ -1,0 +1,10 @@
+<h5>
+  NSMan`s Detail
+</h5>
+
+<p *ngIf="!nsman">Carregando</p>
+<div *ngIf="nsman">
+  <span>ID: {{nsman.id}}</span>
+  <span>Name: {{nsman.name}}</span>
+  <span>IFace: {{nsman.iface}}</span>
+</div>
