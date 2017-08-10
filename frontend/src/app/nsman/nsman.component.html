@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col s4">
+    <p>
+      Lista de NSMan`s
+    </p>
+    <a class="waves-effect waves-light btn"
+       (click)="createNsman()">New
+    </a>
+    <div class="collection">
+      <a class="collection-item"
+         *ngFor="let nsman of nsmans"
+         [routerLink]="[nsman.id]">
+        {{nsman.name}}
+      </a>
+    </div>
+  </div>
+
+  <div class="col s6">
+    <router-outlet></router-outlet>
+  </div>
+</div>
