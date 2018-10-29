@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alphabet-Braille>
+    <dot id = "1">
+        <char> a </char>
+    </dot>
+    <dot id = "12">
+        <char> b </char>
+    </dot>
+    <dot id = "14">
+        <char> c </char>
+    </dot>
+    <dot id = "145">
+        <char> d </char>
+    </dot>
+</alphabet-Braille>

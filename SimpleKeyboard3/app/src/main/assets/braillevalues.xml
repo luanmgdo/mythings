@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alphabet-Braille>
+    <dot>
+        <id>1</id>
+        <letter> a </letter>
+    </dot>
+    <dot>
+        <id>12</id>
+        <letter> b </letter>
+    </dot>
+    <dot>
+        <id>14</id>
+        <letter> c </letter>
+    </dot>
+    <dot>
+        <id>145</id>
+        <letter> d </letter>
+    </dot>
+</alphabet-Braille>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\161374fb51d616f7ac98e08f0ad054f727d090c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84c92fc330c25f05517147d3a74011a763f2471a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\0ae4325d3d9aaffa544b7385de28183d625efb2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11def1fadc960bddc02bf2146470988cce65e8eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\09022510e1950a6d28af2a3547ee10e36425de95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c35c01afc39722ebb6af1357ea3041087e7892fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_8cf1a1324d85595ae879d211c671e6334edcb904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\d89a26083e97f04b475a8662c31580dfe8798121\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d39ba593fc087cf00fcfdc89742d65a9168b157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\6cfa774886788c6bf8c545a279ad3f4e6bb30514\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37492ca151b39ee6c4a81fa6ea97a657b38bbe4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\a3c9476a4331c5678faafcf4b85f1110f9c43c57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c77dcc71a116cee7f24ff418aebb75cd5d959c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1a71af4bb8da1815bf9a843bcd838b5a49b5487">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e1ef04e8ce9fe2e91ddaa18e1d917d7311ce3350\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_87269edec2f081ff79b5bf00eded5d565de37dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\a08e28469d03c5c12e132eceb703b97a91e43071\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_44a9e01bdf33098623be0575636e7d6689bf95e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_9a18820855607d76e1efaeb36755e6f85b213666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233af37a0564408fae31f7c1559cf103bb8a6a48">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da3a95a3a5ad10de2d0d0467a527843342dc56ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\0d5aff710a4d88be81f856e7b7011afab9d16cf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e357e24fba5af102ab3e531e64e0da40b2a2f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\44d3db99cfed934a1677efb40af55e7266e867b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2a27215d579996a962890fb83f595694e1e7a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1748d519c28e72231280d4a08a8382df5679fe49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\luanm\.android\build-cache\53f89a6ddcff6c75f5362c24b689c91e741b10bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\luanm\Desktop\faculdade\SimpleKeyboard2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc349ea202f59d25101769a49b31e7ce52eba858\classes.dex" />
+    </item>
+
+</items>
