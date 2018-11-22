@@ -1,0 +1,89 @@
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="12.5%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="20%p"
+    >
+    <Row>
+        <Key android:codes="49" android:keyLabel="1"
+            android:keyWidth="75dp" android:keyHeight="50dp"
+            android:keyEdgeFlags="left"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="100dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_height="30dp"-->
+        <!--/>-->
+        <Key android:codes="52" android:keyLabel="4"
+            android:keyWidth="75dp" android:keyHeight="50dp"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="6dp"-->
+        <!--android:layout_marginBottom="6dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_height="30dp"-->
+        <!--/>-->
+        <Key android:codes="-4" android:keyLabel="DONE" android:keyWidth="75dp"
+            android:padding="10dp"
+            android:keyHeight="50dp"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="right"
+            />
+
+    </Row>
+    <Row>
+        <Key android:codes="50" android:keyLabel="2"
+            android:keyWidth="75dp" android:keyHeight="50dp"
+            android:keyEdgeFlags="left"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_height="30dp"-->
+        <!--/>-->
+        <Key android:codes="53" android:keyLabel="5"
+            android:keyWidth="75dp" android:keyHeight="50dp"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="6dp"-->
+        <!--android:layout_marginBottom="6dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="50dp"-->
+        <!--android:layout_height="32dp"-->
+        <!--/>-->
+        <Key android:codes="-5" android:keyLabel="DEL" android:keyWidth="75dp"
+            android:padding="10dp"
+            android:keyHeight="50dp"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="right"
+            />
+
+    </Row>
+    <Row>
+        <Key android:codes="51" android:keyLabel="3"
+            android:keyWidth="75dp" android:keyHeight="50dp"
+            android:keyEdgeFlags="left"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="6dp"-->
+        <!--android:layout_marginBottom="6dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_height="32dp"-->
+        <!--/>-->
+        <Key android:codes="54" android:keyLabel="6"
+            android:keyWidth="75dp" android:keyHeight="50dp"/>
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="6dp"-->
+        <!--android:layout_marginBottom="6dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_height="32dp"-->
+        <!--/>-->
+        <Key android:codes="32" android:keyLabel="SPACE" android:keyWidth="75dp"
+            android:padding="10dp"
+            android:keyHeight="50dp"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="right"
+            />
+
+    </Row>
+</Keyboard>

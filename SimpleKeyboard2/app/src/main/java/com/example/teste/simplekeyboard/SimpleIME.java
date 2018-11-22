@@ -13,7 +13,7 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
     private KeyboardView kv;
     private Keyboard keyboard;
 
-    private XmlParser parse = new XmlParser();
+    private BrailleParser parse = new BrailleParser();
 
     private boolean caps = false;
 
@@ -67,7 +67,7 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
                 break;
             case Keyboard.KEYCODE_DONE:
                 ic.commitText(currentCharacter, 1);
-                ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
+                //ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
                 parse.clearString();
                 break;
             default:
