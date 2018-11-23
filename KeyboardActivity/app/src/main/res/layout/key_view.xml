@@ -1,95 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:weightSum="1">
 
-    <ImageButton
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot1"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_above="@+id/dot2"-->
+        <!--android:layout_alignLeft="@+id/dot2"-->
+        <!--android:layout_alignStart="@+id/dot2"-->
+        <!--android:layout_marginBottom="24dp"-->
+        <!--android:onClick="dot1Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot2"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_above="@+id/dot3"-->
+        <!--android:layout_alignLeft="@+id/dot3"-->
+        <!--android:layout_alignStart="@+id/dot3"-->
+        <!--android:layout_marginBottom="23dp"-->
+        <!--android:onClick="dot2Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot3"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_marginLeft="33dp"-->
+        <!--android:layout_marginStart="33dp"-->
+        <!--android:layout_marginBottom="50dp"-->
+        <!--android:onClick="dot3Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot4"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_alignTop="@+id/dot1"-->
+        <!--android:layout_alignLeft="@+id/dot5"-->
+        <!--android:layout_alignStart="@+id/dot5"-->
+        <!--android:onClick="dot4Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot5"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_alignTop="@+id/dot2"-->
+        <!--android:layout_alignLeft="@+id/dot6"-->
+        <!--android:layout_alignStart="@+id/dot6"-->
+        <!--android:onClick="dot5Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/dot6"-->
+        <!--android:layout_width="68dp"-->
+        <!--android:layout_height="58dp"-->
+        <!--app:srcCompat="@android:drawable/screen_background_dark"-->
+        <!--android:layout_alignTop="@+id/dot3"-->
+        <!--android:layout_toRightOf="@+id/dot3"-->
+        <!--android:layout_toEndOf="@+id/dot3"-->
+        <!--android:layout_marginLeft="29dp"-->
+        <!--android:layout_marginStart="29dp"-->
+        <!--android:onClick="dot6Pressed"/>-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/sendButton"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginLeft="32dp"-->
+        <!--android:layout_marginStart="32dp"-->
+        <!--app:srcCompat="@android:drawable/ic_menu_send"-->
+        <!--android:layout_alignTop="@+id/dot4"-->
+        <!--android:layout_toRightOf="@+id/dot4"-->
+        <!--android:layout_toEndOf="@+id/dot4" />-->
+
+    <!--<ImageButton-->
+        <!--android:id="@+id/delButton"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--app:srcCompat="@android:drawable/btn_dialog"-->
+        <!--android:layout_alignBottom="@+id/dot5"-->
+        <!--android:layout_alignLeft="@+id/sendButton"-->
+        <!--android:layout_alignStart="@+id/sendButton"-->
+        <!--android:layout_alignTop="@+id/dot5" />-->
+
+    <Button
         android:id="@+id/dot1"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
-        android:layout_above="@+id/dot2"
-        android:layout_alignLeft="@+id/dot2"
-        android:layout_alignStart="@+id/dot2"
-        android:layout_marginBottom="24dp"
-        android:onClick="dot1Pressed"/>
-
-    <ImageButton
-        android:id="@+id/dot2"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
-        android:layout_above="@+id/dot3"
-        android:layout_alignLeft="@+id/dot3"
-        android:layout_alignStart="@+id/dot3"
-        android:layout_marginBottom="23dp"
-        android:onClick="dot2Pressed"/>
-
-    <ImageButton
-        android:id="@+id/dot3"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_marginLeft="33dp"
-        android:layout_marginStart="33dp"
-        android:layout_marginBottom="50dp"
-        android:onClick="dot3Pressed"/>
+        android:layout_marginBottom="221dp"
+        android:layout_marginLeft="38dp"
+        android:layout_marginStart="38dp"
+        android:background="@android:color/black"
+        android:onClick="dot1Pressed"
+        />
 
-    <ImageButton
-        android:id="@+id/dot4"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
+    <Button
+        android:id="@+id/dot2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="70dp"
         android:layout_alignTop="@+id/dot1"
+        android:layout_alignLeft="@+id/dot1"
+        android:layout_alignStart="@+id/dot1"
+        android:background="@android:color/black"
+        android:onClick="dot2Pressed"
+        />
+
+    <Button
+        android:id="@+id/dot3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="21dp"
+        android:background="@android:color/black"
+        android:layout_below="@+id/dot2"
+        android:layout_alignLeft="@+id/dot2"
+        android:layout_alignStart="@+id/dot2"
+        android:onClick="dot3Pressed"
+        />
+
+    <Button
+        android:id="@+id/dot4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/dot1"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:layout_toEndOf="@+id/dot1"
+        android:layout_toRightOf="@+id/dot1"
+        android:background="@android:color/black"
+        android:onClick="dot4Pressed"
+        />
+
+    <Button
+        android:id="@+id/dot5"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/dot3"
+        android:layout_alignLeft="@+id/dot4"
+        android:layout_alignStart="@+id/dot4"
+        android:background="@android:color/black"
+        android:onClick="dot5Pressed"
+        />
+
+    <Button
+        android:id="@+id/dot6"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/dot3"
         android:layout_alignLeft="@+id/dot5"
         android:layout_alignStart="@+id/dot5"
-        android:onClick="dot4Pressed"/>
+        android:background="@android:color/black"
+        android:onClick="dot6Pressed"
+        />
 
-    <ImageButton
-        android:id="@+id/dot5"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
-        android:layout_alignTop="@+id/dot2"
-        android:layout_alignLeft="@+id/dot6"
-        android:layout_alignStart="@+id/dot6"
-        android:onClick="dot5Pressed"/>
-
-    <ImageButton
-        android:id="@+id/dot6"
-        android:layout_width="68dp"
-        android:layout_height="58dp"
-        app:srcCompat="@android:drawable/screen_background_dark"
-        android:layout_alignTop="@+id/dot3"
-        android:layout_toRightOf="@+id/dot3"
-        android:layout_toEndOf="@+id/dot3"
-        android:layout_marginLeft="29dp"
-        android:layout_marginStart="29dp"
-        android:onClick="dot6Pressed"/>
-
-    <ImageButton
+    <Button
         android:id="@+id/sendButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="32dp"
-        android:layout_marginStart="32dp"
-        app:srcCompat="@android:drawable/ic_menu_send"
-        android:layout_alignTop="@+id/dot4"
+        android:layout_alignBottom="@+id/dot4"
+        android:layout_marginLeft="46dp"
+        android:layout_marginStart="46dp"
+        android:layout_toEndOf="@+id/dot4"
         android:layout_toRightOf="@+id/dot4"
-        android:layout_toEndOf="@+id/dot4" />
-
-    <ImageButton
-        android:id="@+id/delButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_dialog"
-        android:layout_alignBottom="@+id/dot5"
-        android:layout_alignLeft="@+id/sendButton"
-        android:layout_alignStart="@+id/sendButton"
-        android:layout_alignTop="@+id/dot5" />
+        android:background="@android:drawable/ic_menu_send"
+        android:onClick="sendMessage"/>
 </RelativeLayout>

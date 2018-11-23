@@ -72,7 +72,7 @@ public class SimpleIME extends InputMethodService implements KeyboardView.OnKeyb
                 break;
             case Keyboard.KEYCODE_DONE:
 //                ic.commitText(currentCharacter, 1);
-                //ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
+                ic.sendKeyEvent(new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_ENTER));
 //                parse.clearString();
                 Intent intent = new Intent(this, MainActivity.class);
                 intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
